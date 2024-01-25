@@ -3,6 +3,7 @@
 ## Unreleased
 
 Enhancements:
+- Update supported frameworks of the ZedGraph project to NET48, NET6 windows, NET8 windows (@mchirm)
 - Add support for .NET Standard 2.0 (@axunonb)
 - Add .NET Framework 4, 4.5, 4.6, 4.7 specific assemblies
 
